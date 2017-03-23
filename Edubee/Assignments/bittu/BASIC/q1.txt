@@ -1,0 +1,4 @@
+Its a Basic C print command learn
+
+you have to Print BiTtUpAntI
+
