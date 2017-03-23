@@ -1,0 +1,4 @@
+uploads/q1.c: In function 'main':
+uploads/q1.c:4:1: error: expected declaration or statement at end of input
+ printf("2\n1\n24\n");
+ ^
